@@ -36,6 +36,10 @@ This project focuses on creating a face recognition system with an alert mechani
 1. Run the main application:
    ```bash
    python main.py
+
+<img src="https://github.com/vidyasagar1793/Face-recognition-with-warning-system/blob/main/image/Screenshot%202023-11-27%20195820.png" height ="400px" width="600px" >
+<img src="https://github.com/vidyasagar1793/Face-recognition-with-warning-system/blob/main/image/photo_2023-11-27_19-20-57.jpg" height="400px"  width="600px">
+   
    ```
 
 2. Monitor the system through the camera.
