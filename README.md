@@ -6,15 +6,14 @@ This project focuses on creating a face recognition system with an alert mechani
 
 ## Features
 
-- **Real-time Face Detection:** The system employs advanced face detection techniques to identify unenrolled faces in real-time.
+ **Real-time Face Detection:** The system employs advanced face detection techniques to identify unenrolled faces in real-time.
 
-- **Image Capture:** Once an unauthorized face is detected, the system captures an image swiftly, ensuring a visual record of the incident.
+ **Image Capture:** Once an unauthorized face is detected, the system captures an image swiftly, ensuring a visual record of the incident.
 
-- **Secure Storage:** Captured images and timestamps are securely stored in a database, providing a reliable repository for monitoring and analysis.
+ **Secure Storage:** Captured images and timestamps are securely stored in a database, providing a reliable repository for monitoring and analysis.
 
-- **Proactive Monitoring and Alert Generation:** The system actively monitors for unauthorized access attempts. If a breach is detected, it generates alerts to notify relevant authorities or security personnel.
+ **Proactive Monitoring and Alert Generation:** The system actively monitors for unauthorized access attempts. If a breach is detected, it generates alerts to notify relevant authorities or security personnel.
 
-- **Resource for Analysis and Investigation:** The stored data serves as a valuable resource for in-depth analysis and investigation in the event of security breaches, enabling a proactive response.
 
 ## Installation
 
@@ -36,12 +35,9 @@ This project focuses on creating a face recognition system with an alert mechani
 1. Run the main application:
    ```bash
    python main.py
-
-<img src="https://github.com/vidyasagar1793/Face-recognition-with-warning-system/blob/main/image/Screenshot%202023-11-27%20195820.png" height ="400px" width="600px" >
-<img src="https://github.com/vidyasagar1793/Face-recognition-with-warning-system/blob/main/image/photo_2023-11-27_19-20-57.jpg" height="400px"  width="600px">
-   
-   ```
-
+     ```
 2. Monitor the system through the camera.
 
 3. Receive alerts and review captured images in the database in case of unauthorized access attempts.
+
+<img src="https://github.com/vidyasagar1793/Face-recognition-with-warning-system/blob/main/image/Screenshot%202023-11-27%20195820.png" height ="400px" width="600px" >
